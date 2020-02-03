@@ -1,0 +1,8 @@
+Nome: Luzia Fernandes
+CPF: 123.333.333-33
+RG: 111111111
+Data de Nascimento: 10/01/2011
+Endereco: ruana
+Telefone: (32)22222-2222
+E-mail: hotmail
+
